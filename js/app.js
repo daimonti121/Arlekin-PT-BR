@@ -2,7 +2,7 @@ window.HUB_EVENTS={ASSET_ADDED:"ASSET_ADDED",ASSET_DELETED:"ASSET_DELETED",ASSET
 
 var colors = ["#3a1149", "#f30000", "#24177c", "#ec710b",
              "#3a1149", "#f30000", "#24177c", "#ec710b"];
-var prizes = ["      TREINAR       CONTRA", " 100% up to 1200 BRL", "100 RG", "100 RG", "       SEM      GANHO", "  50% up to   1500 BRL", "200 RG", "  75% up to   1800 BRL"];
+var prizes = ["      TREINAR       CONTRA", "  100% up to  1200 BRL", "100 RG", "100 RG", "       SEM      GANHO", "  50% up to   1500 BRL", "200 RG", "  75% up to   1800 BRL"];
 
 var startAngle = 0*Math.PI/180;
 var arc = (2 * Math.PI) / colors.length;
